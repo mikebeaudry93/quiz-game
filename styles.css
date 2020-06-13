@@ -73,12 +73,12 @@ body {
 }
 
 .border-green {
-    background-color: green;
+    background-color: #32cd32;
     color: white;
 }
 
 .border-red {
-    background-color: red;
+    background-color: #a70000;
     color: white;
 }
 

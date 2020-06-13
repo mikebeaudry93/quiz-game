@@ -158,7 +158,7 @@ const questions = [
         question: 'What is 1 + 1?',
         answers: [
             {text: '11', correct: false},
-            {text: 'window', correct: false},
+            {text: 'Window', correct: false},
             {text: '2', correct: true},
             {text: '42', correct: false},
         ]

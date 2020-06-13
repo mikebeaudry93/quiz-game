@@ -204,8 +204,8 @@ const questions = [
         answers: [
             {text: 'Procida', correct: false},
             {text: 'Rowley Island', correct: false},
-            {text: 'Bishop Rock', correct: true},
-            {text: 'Upolu', correct: false},
+            {text: 'Bishop Rock', correct: false},
+            {text: 'Hub Island', correct: true},
         ]
     },
     {

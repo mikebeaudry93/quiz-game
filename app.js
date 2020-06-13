@@ -146,20 +146,20 @@ const wrongAnswers = [
 
 const questions = [
     {
-        question: 'What is 2 + 2?',
+        question: 'What is 8 x 2?',
         answers: [
-            {id: 1, text: '4', correct: true},
+            {id: 1, text: '16', correct: true},
             {id: 2, text: '22', correct: false},
-            {id: 3, text: '18', correct: false},
-            {id: 4, text: '-3', correct: false},
+            {id: 3, text: '82', correct: false},
+            {id: 4, text: '10', correct: false},
         ]
     },
     {
-        question: 'What is 4 + 2?',
+        question: 'What is 1 + 1?',
         answers: [
-            {text: '100', correct: false},
-            {text: '1', correct: false},
-            {text: '6', correct: true},
+            {text: '11', correct: false},
+            {text: 'window', correct: false},
+            {text: '2', correct: true},
             {text: '42', correct: false},
         ]
     },
